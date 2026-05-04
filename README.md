@@ -15,8 +15,6 @@ Notice:
 
 Contributors:
 
-Ivan_Meler
-
 rINanDO
 
 Gitub Source:
