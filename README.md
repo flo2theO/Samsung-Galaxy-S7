@@ -13,8 +13,9 @@ Notice:
 * you point the finger at me for messing up your device, I will laugh at you.
 */
 
-Contributors
+Contributors:
 Ivan_Meler
+
 rINanDO
 
 Gitub Source:
