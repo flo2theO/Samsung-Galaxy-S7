@@ -32,8 +32,8 @@ This Lineage Zip ist only for Herolte with Exynos 8890 CPU
 
 Installation
 
-- ***make Backup of your personal Data***
-- Copy Lineageos Zip and Gapps to SC Card
+- ***first make Backup of your personal Data***
+- Copy Lineageos Zip and Gapps to SD Card
 - start TWRP
 - make wipe 
 - install Lineageos zip
