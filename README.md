@@ -30,7 +30,7 @@ Installation
 - ***first make Backup of your personal Data***
 - Copy Lineageos Zip and Gapps to SD Card
 - start TWRP
-- make wipe 
+- make wipe System Cache Data
 - install Lineageos zip
 - install Gapps
 - reboot to System
