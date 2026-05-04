@@ -21,9 +21,6 @@ Gitub Source:
 https://github.com/rINanDO/galaxys7-patches/tree/lineage-22.1
 
 
-not working:
-volte
-
 This Lineage Zip ist only for Herolte with Exynos 8890 CPU
 
 
