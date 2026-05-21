@@ -13,6 +13,19 @@ Notice:
 * you point the finger at me for messing up your device, I will laugh at you.
 */
 
+
+Currently in development not suitable as a daily driver
+
+what does not work:
+- OTA Update
+- volte
+
+
+Issues:
+Google Maps GPS and Traffic Data
+Browser (err_name_not_resolved)
+
+
 Contributors:
 
 rINanDO
